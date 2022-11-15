@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_signup" type="id" />
+    <item name="fab_ig" type="id" />
+    <item name="rcv_category" type="id" />
+    <item name="editTextUserName" type="id" />
+    <item name="checkboxLuuMK" type="id" />
+    <item name="buttonLogin" type="id" />
+</resources>
